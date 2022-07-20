@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 I ❤️ Front-end Development!
 
-:computer: A front-end Engineer, currently based in yiwu, China.
-
 :vulcan_salute: I put mostly of my focus on front-end develpoment with Javascript/Vue/React.
 
 :writing_hand: I Love write technical articles, you can visit [my websites](https://carberrychai.github.io/blog/).
