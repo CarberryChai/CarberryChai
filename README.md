@@ -20,8 +20,6 @@ I ❤️ Front-end Development!
 
 :vulcan_salute: I put mostly of my focus on front-end develpoment with Javascript/Vue/React.
 
-:writing_hand: I Love write technical articles, you can visit [my websites](https://carberrychai.github.io/blog/).
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
